@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeagerStudios.
-- 💻 I’m currently developing a 2d sandbox game like Terraria and Minecraft.
-- 🌱 I’m currently learning CSharp and Unity.
+- 💻 I’m currently developing a 2d sandbox game like Terraria and Minecraft, Leager.
+- 🌱 I use CSharp and Unity.
 
 <!---
 LeagerStudios/LeagerStudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
