@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeagerStudios.
-- 💻 I’m currently developing a 2d sandbox game like Terraria and Mindustry, and Astroneer, Leager.
+- 💻 I’m currently developing a 2d sandbox game like Terraria, Mindustry, and Astroneer, Leager.
 - 🌱 I use CSharp and Unity.
 
 <!---
